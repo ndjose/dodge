@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Jose Dodge n Weave keh",
+"productVersion": "1.0",
+"dataUrl": "jose2.data.unityweb",
+"wasmCodeUrl": "jose2.wasm.code.unityweb",
+"wasmFrameworkUrl": "jose2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
